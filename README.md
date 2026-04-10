@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm TakSakong</h1>
-<h3 align="center">A passionate hoping Fullstack Developer from South Korea 🇰🇷</h3>
+<h3 align="center">A passionate hoping Embedded Developer from South Korea 🇰🇷</h3>
 
-- 🔭 I’m currently working on ~~~
-- 🌱 I’m currently learning **React Native & Blockchain**
-- 📝 I regularly write articles on ~~~
+- 🔭 I’m currently studying CS & CE
+- 🌱 I’m currently learning **Embedded System & Edge AI**
+- 📝 I regularly write articles on https://blog.naver.com/k402900
 
 ### 🧰 Languages and Tools:
 <p>
