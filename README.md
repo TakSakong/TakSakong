@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TakSakong</h1>
 <h3 align="center">A passionate hoping Embedded Developer from South Korea 🇰🇷</h3>
 
-- 🔭 I’m currently studying CS & CE
+- 🔭 I’m currently studying CS
 - 🌱 I’m currently learning **Embedded System & Edge AI**
 - 📝 I regularly write articles on https://blog.naver.com/k402900
 
