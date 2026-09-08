@@ -15,7 +15,6 @@
 - 🔭 **Current Focus:** 대용량 트래픽 환경에서의 트랜잭션 격리, 동시성 제어(Concurrency Control) 및 DB 쿼리 최적화
 - 🌱 **Learning & Applying:** Spring Boot 기반 아키텍처 설계, Redis 분산 락, DB 인덱스 튜닝
 - 💡 **Core Value:** "단순 구현을 넘어, 측정 가능한 성능 개선을 추구합니다."
-- 📝 **Tech Blog:** ---블로그 예정---
 
 ---
 
@@ -53,14 +52,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TakSakong&show_icons=true&theme=tokyonight&hide_border=true" alt="TakSakong's GitHub stats" />
-</p>
-
----
-
 ### 📫 Contact
 - **Email:** `k402900@knu.ac.kr`
-- **Blog:** [https://blog.naver.com/k402900](https://blog.naver.com/k402900)
 - **Portfolio:** *(프로젝트 정리 후 노션/깃허브 링크 추가 예정)*
