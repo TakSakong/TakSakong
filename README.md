@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="mailto:k402900@knu.ac.kr"><img src="https://img.shields.io/badge/Email-k402900%40knu.ac.kr-blue?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://blog.naver.com/k402900"><img src="https://img.shields.io/badge/Blog-Naver_Blog-03C75A?style=flat&logo=naver&logoColor=white" /></a>
 </p>
 
 ---
