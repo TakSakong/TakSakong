@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tak Sakong</h1>
-<h3 align="center">Backend Engineer dedicated to Robust Architecture & Data Consistency 🇰🇷</h3>
-
-<p align="center">
-  컴퓨터공학 전공 지식을 바탕으로 <b>동시성 제어</b>와 <b>쿼리 성능 최적화</b>를 깊이 있게 탐구하는 백엔드 개발자 사공탁입니다.
-</p>
+<h3 align="center">Backend Engineer🇰🇷</h3>
 
 <p align="center">
   <a href="mailto:k402900@knu.ac.kr"><img src="https://img.shields.io/badge/Email-k402900%40knu.ac.kr-blue?style=flat&logo=gmail&logoColor=white" /></a>
